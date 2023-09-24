@@ -1,0 +1,140 @@
+@import "base.css";
+@import "components.css";
+@import "utilities.css";
+@import "gallery.css";
+
+.react {
+	border: 0.1rem solid rgb(97, 218, 251);
+}
+.react:hover {
+	background: rgba(97, 218, 251, 0.25);
+}
+
+.css {
+	border: 0.1rem solid rgb(97, 218, 251);
+}
+.css:hover {
+	background: rgba(97, 218, 251, 0.25);
+}
+r .node {
+	border: 0.1rem solid rgb(131, 205, 41);
+}
+.node:hover {
+	background: rgba(131, 205, 41, 0.25);
+}
+
+.mongodb {
+	border: 0.1rem solid rgb(67, 153, 52);
+}
+.mongodb:hover {
+	background: rgba(67, 153, 52, 0.25);
+}
+
+.redux {
+	border: 0.1rem solid rgb(118, 74, 188);
+}
+.redux:hover {
+	background: rgba(118, 74, 188, 0.25);
+}
+
+.razorpay {
+	border: 0.1rem solid rgb(82, 143, 240);
+}
+.razorpay:hover {
+	background: rgba(82, 143, 240, 0.25);
+}
+
+.material-ui {
+	border: 0.1rem solid rgb(25, 118, 210);
+}
+.material-ui:hover {
+	background: rgba(25, 118, 210, 0.25);
+}
+
+.bulma {
+	border: 0.1rem solid rgb(0, 209, 178);
+}
+.bulma:hover {
+	background: rgb(0, 209, 178, 0.25);
+}
+
+.next {
+	border: 2px solid rgb(0, 112, 243);
+}
+.next:hover {
+	background: rgba(0, 112, 243, 0.25);
+}
+
+.tailwind {
+	border: 2px solid rgb(6, 182, 212);
+}
+.tailwind:hover {
+	background: rgba(6, 182, 212, 0.25);
+}
+
+.react-query {
+	border: 2px solid rgb(255, 65, 84);
+}
+.react-query:hover {
+	background: rgba(255, 65, 84, 0.25);
+}
+
+.css-modules {
+	border: 2px solid rgb(21, 114, 182);
+}
+.css-modules:hover {
+	background: rgba(21, 114, 182, 0.25);
+}
+
+.leaflet {
+	border: 0.1rem solid rgb(131, 205, 41);
+}
+.leaflet:hover {
+	background: rgba(131, 205, 41, 0.25);
+}
+
+.api {
+	border: 0.1rem solid rgb(215, 59, 7);
+}
+
+.api:hover {
+	background: rgba(196, 58, 12, 0.25);
+}
+
+.react-icon {
+	border: 0.1rem solid rgba(7, 215, 180);
+}
+
+.react-icon:hover {
+	background: rgba(7, 215, 180, 0.25);
+}
+
+.docker {
+	border: 2px solid rgb(21, 114, 182);
+}
+.docker:hover {
+	background: rgba(21, 114, 182, 0.25);
+}
+
+.javaScript {
+	border: 2px solid rgb(255, 255, 0);
+}
+
+.javaScript:hover {
+	background: rgb(255, 255, 0, 0.25);
+}
+
+.html {
+	border: 2px solid rgb(255, 0, 0);
+}
+
+.html:hover {
+	background: rgb(255, 0, 0, 0.25);
+}
+
+.yarn {
+	border: 0.1rem solid rgb(131, 205, 41);
+}
+.yarn:hover {
+	background: rgba(131, 205, 41, 0.25);
+}
